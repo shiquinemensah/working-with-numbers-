@@ -14,3 +14,4 @@ from math import* #when you add this line of code you will have access to more m
 
 print (floor(3.7))# this will grab the lowest number within the brackets
 print (sqrt(3.6))# gives you the squared route of a number specified
+# more number variations and calculation methods 
